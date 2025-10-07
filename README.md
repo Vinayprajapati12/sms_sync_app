@@ -1,16 +1,12 @@
-# sms_sync_app
+# SMS SYNC APP
+---
+OUTPUTS
+---
+![Screenshot_20251007_134259](https://github.com/user-attachments/assets/00919290-2a8c-4c08-93a8-5c2232c8617d)
 
-A new Flutter project.
+Search by filter
 
-## Getting Started
+![Screenshot_20251007_125351](https://github.com/user-attachments/assets/5174514d-5d2d-4b2d-bf18-a44b59e9776b)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20251007_115123](https://github.com/user-attachments/assets/e518841b-e564-4458-af46-0b0d0dc585ed)
